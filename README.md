@@ -11,7 +11,7 @@ Agent skills packaged as one Claude plugin, for claude.ai and Claude Code.
 Claude Code:
 
 ```bash
-claude plugin marketplace add fulls1z3/skils
+claude plugin marketplace add fulls1z3/skills
 claude plugin install fulls1z3-skills@fulls1z3-skills --scope user
 ```
 

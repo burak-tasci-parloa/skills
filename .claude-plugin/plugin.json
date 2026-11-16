@@ -1,0 +1,10 @@
+{
+  "name": "fulls1z3-skills",
+  "version": "0.1.0",
+  "description": "Skills shared by Claude Code and claude.ai: grilling, a decision interview through question cards.",
+  "author": {
+    "name": "Burak Tasci"
+  },
+  "repository": "https://github.com/fulls1z3/skils",
+  "license": "MIT"
+}
